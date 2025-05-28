@@ -1,6 +1,4 @@
 
-
-
 DAMN VULNERABLE WEB APPLICATION
 =======================
 
